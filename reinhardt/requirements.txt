@@ -1,0 +1,9 @@
+dj-database-url==0.4.1
+Django==2.0
+gunicorn==19.6.0
+psycopg2==2.7.3.2
+whitenoise==3.2
+boto3==1.4.6
+botocore==1.6.8
+django-storages==1.6.5
+s3transfer==0.1.11
